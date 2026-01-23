@@ -12,7 +12,6 @@ This project demonstrates the design and implementation of a modern data warehou
 
 ## 🧰 Tech Stack
 - **Database:** PostgreSQL  
-- **ETL:** Python  
 - **Modeling & Analytics:** SQL  
 - **Version Control:** GitHub  
 
